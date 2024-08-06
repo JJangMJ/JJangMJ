@@ -5,7 +5,7 @@
 
 -------
 
-[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMJ123-SG&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JMJ123-SG/github-readme-stats)
+[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)
  
 <br>
 
