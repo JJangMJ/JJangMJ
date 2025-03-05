@@ -3,28 +3,10 @@
  
 <div align="left">
 
--------
-
-[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)
- 
+------- 
 <br>
 
-## 📞 Contact 
-<div>
-    <a href="https://chjanggo79@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
-    </a><br>
-    <a href="https://open.kakao.com/o/sHuDWVng">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk"> 
-    </a><br>
-    <a href="https://jmj-2000.tistory.com/">
-        <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
-    </a>
-</div><br>
-    
-## 💻 Tech Stacks 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJangMJ&layout=compact&theme=algolia)
-
+# 💻 Tech Stacks 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p>
         <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"> 
@@ -43,4 +25,28 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
     </p>
-</div>
+</div><br>
+
+
+# 📊 Statistics
+### GitHub stats
+[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)<br>
+### BaekJoon Tier
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtntkdnsk)](https://solved.ac/ghtntkdnsk)<br>
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJangMJ&layout=compact&theme=algolia&card_width=400px)
+
+<br>
+
+# 📞 Contact 
+<div>
+    <a href="https://chjanggo79@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a><br>
+    <a href="https://open.kakao.com/o/sHuDWVng">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logoColor=black&logo=KakaoTalk"> 
+    </a><br>
+    <a href="https://jmj-2000.tistory.com/">
+        <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+    </a>
+</div><br>
