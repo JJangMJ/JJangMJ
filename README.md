@@ -7,9 +7,8 @@
 <div align='center'>
    👋 안녕하세요! 끊임없이 성장하는 개발자 JMJ입니다!👋<br><br>
    📞 Contact<br><br>
-       <a href="mailto:chjanggo79@gmail.com"><img src="https://img.shields.io/badge/chjanggo79@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-       <a href="mailto:ghtntkdnsk@naver.com"><img src="https://img.shields.io/badge/ghtntkdnsk@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"></a>
-       <a href="https://jmj-2000.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
+       Email : <a href="mailto:chjanggo79@gmail.com">chjanggo79@gmail.com</a><br><br>
+       Tech Blog : <a href="https://jmj-2000.tistory.com/">https://jmj-2000.tistory.com</a>
 </div><br>
 
 ## 💻 Tech Stacks 
