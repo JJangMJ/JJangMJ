@@ -23,13 +23,14 @@
 </div><br>
     
 ## 💻 Tech Stacks 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJangMJ&layout=compact)
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p>
         <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
     </p>
     <p>
@@ -42,5 +43,5 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-    </p><br>
+    </p>
 </div>
