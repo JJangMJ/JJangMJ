@@ -19,7 +19,7 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 💻 Tech Stacks 💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
