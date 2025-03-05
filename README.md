@@ -23,7 +23,7 @@
 </div><br>
     
 ## 💻 Tech Stacks 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJangMJ&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJangMJ&layout=compact&theme=algolia)
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p>
