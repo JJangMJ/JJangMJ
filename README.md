@@ -6,7 +6,7 @@
 ------- 
 <br>
 
-# 💻 Tech Stacks 
+## 💻 Tech Stacks 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p>
         <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"> 
@@ -28,17 +28,17 @@
 </div><br>
 
 
-# 📊 Statistics
-### GitHub stats
-[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)<br>
-### BaekJoon Tier
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtntkdnsk)](https://solved.ac/ghtntkdnsk)<br>
-### Most Used Languages
+## 📊 Statistics
+- GitHub Stats<br><br>
+[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)<br><br>
+- BaekJoon Tier<br><br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtntkdnsk)](https://solved.ac/ghtntkdnsk)<br><br>
+- Most Used Languages<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJangMJ&layout=compact&theme=algolia&card_width=400px)
 
 <br>
 
-# 📞 Contact 
+## 📞 Contact 
 <div>
     <a href="https://chjanggo79@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
