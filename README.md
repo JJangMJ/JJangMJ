@@ -27,7 +27,7 @@
    Tech Blog : <a href="https://jmj-2000.tistory.com/">https://jmj-2000.tistory.com</a>
 </div><br><br>
 
-## 💻 Tech Stacks 
+## 💻 Tech Stack 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p>
         <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"> 
