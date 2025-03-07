@@ -19,13 +19,13 @@
 2. 단순히 기능을 구현하는 것이 아니라, 도메인의 핵심 개념과 요구사항을 깊이 파악하고 이를 코드로 풀어내는 개발자가 되고 싶습니다. 코드가 도메인 로직을 왜곡하지 않도록, 의미 있는 모델링과 명확한 인터페이스 설계를 고민합니다.
 3. 좋은 개발은 혼자만의 결과물이 아니라, 팀과 함께 만들어가는 과정이라고 생각합니다. 코드 리뷰를 통해 더 나은 설계 방식을 고민하고, 도메인 중심의 논의를 통해 함께 성장하는 문화를 지향합니다.
 4. 확장성과 유지보수성을 고려한 설계를 통해, 변화에 유연하게 대응할 수 있는 시스템을 만드는 것이 목표입니다.
-</div><br>
+</div><br><br>
 
 # 📞 Contact
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    Email : <a href="mailto:chjanggo79@gmail.com">chjanggo79@gmail.com</a><br><br>
    Tech Blog : <a href="https://jmj-2000.tistory.com/">https://jmj-2000.tistory.com</a>
-</div><br>
+</div><br><br>
 
 # 💻 Tech Stacks 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -46,12 +46,12 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
     </p>
-</div><br>
+</div><br><br>
 
 # 💾 Projects
 <div>
   1️⃣ <a href="https://github.com/Capstone-Clothing/CODINAVI_Server">시각장애인을 위한 코디 추천 서비스 - CODINAVI</a><br><br>
-</div><br>
+</div><br><br>
 
 # 📊 Statistics
 - GitHub Stats<br><br>
