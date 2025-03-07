@@ -8,7 +8,7 @@
 
 ------- 
 
-# 🧑‍💻 Profile
+## 🧑‍💻 Profile
 <div>
  👋 안녕하세요! 저는 끊임없이 배우고 성장하는 것을 즐기는 백엔드 개발자입니다!👋<br>
  코드를 단순히 동작하는 무언가가 아니라, 이해하기 쉽고 유지보수하기 좋은 형태로 만드는 것을 중요하게 생각합니다.<br>
@@ -21,13 +21,13 @@
 4. 확장성과 유지보수성을 고려한 설계를 통해, 변화에 유연하게 대응할 수 있는 시스템을 만드는 것이 목표입니다.
 </div><br><br>
 
-# 📞 Contact
+## 📞 Contact
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    Email : <a href="mailto:chjanggo79@gmail.com">chjanggo79@gmail.com</a><br><br>
    Tech Blog : <a href="https://jmj-2000.tistory.com/">https://jmj-2000.tistory.com</a>
 </div><br><br>
 
-# 💻 Tech Stacks 
+## 💻 Tech Stacks 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p>
         <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"> 
@@ -48,12 +48,12 @@
     </p>
 </div><br><br>
 
-# 💾 Projects
+## 💾 Projects
 <div>
   1️⃣ <a href="https://github.com/Capstone-Clothing/CODINAVI_Server">시각장애인을 위한 코디 추천 서비스 - CODINAVI</a><br><br>
 </div><br><br>
 
-# 📊 Statistics
+## 📊 Statistics
 - GitHub Stats<br><br>
 [![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)<br><br>
 - BaekJoon Tier<br><br>
