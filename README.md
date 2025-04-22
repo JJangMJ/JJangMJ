@@ -52,6 +52,7 @@
 
 ## 📊 Statistics
 - GitHub Stats<br><br>
+[![JMJ123-SG's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJangMJ&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/JJangMJ/github-readme-stats)<br><br>
 - BaekJoon Tier<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghtntkdnsk)](https://solved.ac/ghtntkdnsk)<br><br>
 - Most Used Languages<br><br>
